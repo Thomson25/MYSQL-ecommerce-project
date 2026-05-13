@@ -2,7 +2,7 @@
 MySQL database project analyzing customers, orders, revenue, and top-selling products.
 # SQL Sales Analysis Project
 
-This project was built using MySQL to analyze sales data.
+This project was built using MySQL to analyze sales data
 
 ## Skills Used
 - SQL Joins
