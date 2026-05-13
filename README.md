@@ -1,4 +1,4 @@
-# MYSQL-ecommerce-project
+# MYSQL-ecommerce -project
 MySQL database project analyzing customers, orders, revenue, and top-selling products.
 # SQL Sales Analysis Project
 
